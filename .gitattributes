@@ -1,1 +1,8 @@
 dataset.zip filter=lfs diff=lfs merge=lfs -text
+code/STCKLA/best_model.pt filter=lfs diff=lfs merge=lfs -text
+dataset/Liver/expr.csv filter=lfs diff=lfs merge=lfs -text
+dataset/Lung/expr.csv filter=lfs diff=lfs merge=lfs -text
+dataset/Melanoma/melanoma_expr.csv filter=lfs diff=lfs merge=lfs -text
+dataset/Pancancer/Pan-cancer_mRNA.csv filter=lfs diff=lfs merge=lfs -text
+dataset/Pancreas/pancreas_expr_brca_style_unaligned.csv filter=lfs diff=lfs merge=lfs -text
+dataset/PBMC/PBMC_expr_fullgene.csv filter=lfs diff=lfs merge=lfs -text
